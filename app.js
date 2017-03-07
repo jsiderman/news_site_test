@@ -22,6 +22,8 @@ app.factory('posts', [function(){
     return o;
 }]);
 
+
+
 app.controller('MainCtrl', [
     '$scope',
     'posts',
