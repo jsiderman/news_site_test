@@ -2,3 +2,4 @@
 .idea
 
 flapper-news/node_modules/
+*.log
